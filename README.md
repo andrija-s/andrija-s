@@ -19,7 +19,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/andrija-s/110-Lab1/blob/main/raw-powerlifting.png" /></a>
 </p>
 ### Languages:
-<div display="flex" alight="center">
+<div display="flex" align="center">
   <img src="https://img.shields.io/badge/java%20-%23F24E1E.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c%20-%23121011.svg?&style=for-the-badge&logo=c&logoColor=white"/>
