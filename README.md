@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 ### Languages and Tools:
 <div display="flex">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++%20-%2335495e.svg?&style=for-the-badge&logo=c++&logoColor=%234FC08D">
-  <img src="https://img.shields.io/badge/java%20-%23F05033.svg?&style=for-the-badge&logo=java&logoColor=red"/>
   <img src="https://img.shields.io/badge/java%20-%23121011.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java%20-%23F24E1E.svg?&style=for-the-badge&logo=java&logoColor=red"/>
-  <img src="https://img.shields.io/badge/java%23000000.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/java%20-%23F05033.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java%20-%23F24E1E.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java%23000000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
 </div>
 <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
