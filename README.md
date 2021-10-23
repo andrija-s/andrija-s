@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Tools:
 <div display="flex">
-  <img src="https://img.shields.io/badge/nodejs%20-%23F24E1E.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node%20-%23F24E1E.svg?&style=for-the-badge&logo=node&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb%20-%2314354C.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/c%20-%23121011.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c++&logoColor=white">
