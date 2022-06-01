@@ -16,10 +16,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/andrija-sunjic/" alt="LinkedIn">
-        <img src="https://github.com/andrija-s/110-Lab1/blob/main/raw-powerlifting.png" /></a>
-</p>
 <br\>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/Java%20-%23F24E1E.svg?&style=for-the-badge&logo=java&logoColor=white"/>
