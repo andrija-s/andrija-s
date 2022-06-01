@@ -16,7 +16,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 -->
-<br\>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/Java%20-%23F24E1E.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
