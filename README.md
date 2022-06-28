@@ -1,7 +1,7 @@
 <br/><br/>
 <div display="flex" align="center">
 <a href="https://github.com/andrija-s">
-    <img src="https://github-readme-stats-andrija-s.vercel.app/api/top-langs/?username=andrija-s&layout=compact&hide=css,html&theme=dracula" /></a>
+    <img src="https://github-readme-stats-andrija-s.vercel.app/api/top-langs/?username=andrija-s&hide=css,html&theme=radical" /></a>
 </div>
 <br/><br/>
 <div display="flex" align="center">
