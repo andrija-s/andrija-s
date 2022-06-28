@@ -1,6 +1,7 @@
 <br/><br/>
 <div display="flex" align="center">
-    <img src="https://github-readme-stats-three-lyart.vercel.app/api/top-langs/?username=andrija-s&layout=compact&hide=css,html&theme=dracula" />
+<a href="https://github.com/andrija-s">
+    <img src="https://github-readme-stats-three-lyart.vercel.app/api/top-langs/?username=andrija-s&layout=compact&hide=css,html&theme=dracula" /></a>
 </div>
 <br/><br/>
 <div display="flex" align="center">
